@@ -10,8 +10,31 @@ namespace Practical1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.Read();
+            Console.WriteLine("Practical 1");
+            pattern1(); // call pattern 1
+            pattern2(); // call pattern 2
+        }
+        static void pattern1()
+        {
+             for(int i=0;i<5;i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
+            }
+        }
+        static void pattern2()
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = i; j < 5; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
+            }
         }
     }
 }
