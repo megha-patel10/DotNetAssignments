@@ -1,6 +1,0 @@
-C:\Users\MEGHA PATEL\source\repos\Practical1\Practical1\bin\Debug\Practical1.exe.config
-C:\Users\MEGHA PATEL\source\repos\Practical1\Practical1\bin\Debug\Practical1.exe
-C:\Users\MEGHA PATEL\source\repos\Practical1\Practical1\bin\Debug\Practical1.pdb
-C:\Users\MEGHA PATEL\source\repos\Practical1\Practical1\obj\Debug\Practical1.csprojAssemblyReference.cache
-C:\Users\MEGHA PATEL\source\repos\Practical1\Practical1\obj\Debug\Practical1.exe
-C:\Users\MEGHA PATEL\source\repos\Practical1\Practical1\obj\Debug\Practical1.pdb
