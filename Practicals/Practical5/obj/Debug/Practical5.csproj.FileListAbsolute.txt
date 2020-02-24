@@ -1,0 +1,6 @@
+E:\DotNetAssignments\Practicals\Practical5\bin\Debug\Practical5.exe.config
+E:\DotNetAssignments\Practicals\Practical5\bin\Debug\Practical5.exe
+E:\DotNetAssignments\Practicals\Practical5\bin\Debug\Practical5.pdb
+E:\DotNetAssignments\Practicals\Practical5\obj\Debug\Practical5.csprojAssemblyReference.cache
+E:\DotNetAssignments\Practicals\Practical5\obj\Debug\Practical5.exe
+E:\DotNetAssignments\Practicals\Practical5\obj\Debug\Practical5.pdb
